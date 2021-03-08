@@ -18,8 +18,7 @@ Un semplice contatore in grado di incrementare tramite il tasto + o decrementare
 
 ### Installing
 
-* No installation required
-
+* git clone https://github.com/alefagi/JSbasics
 
 ### Executing program
 
